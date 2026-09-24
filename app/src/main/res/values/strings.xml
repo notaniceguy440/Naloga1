@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Naloga1</string>
+    <string name="fab_description">Dodaj</string>
+    <string name="mobile_application">Mobile application!</string>
+    <string name="moj_prvi_program">Moj prvi program</string>
+    <string name="gumb_text">Gumb</string>
+    <string name="box_1">Box1</string>
+    <string name="box_2">Box2</string>
+    <string name="toast_message">My first Android Studio application!</string>
+    <string name="snackbar_message">Just another option for button.</string>
+</resources>
