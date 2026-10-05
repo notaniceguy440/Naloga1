@@ -1,1 +1,41 @@
-<h1>Moja prva aplikacija v Android Studiu</h1> <p> Moja prva aplikacija, izdelana v <strong>Android Studiu</strong>. Pri izdelavi sem spoznal osnovne elemente uporabniškega vmesnika in njihovo uporabo. </p> <h2>Aplikacija vsebuje</h2> <ul> <li><strong>Naslov</strong>, ki je zapisan krepko.</li> <li>Podnaslov, ki ni zapisan krepko.</li> <li><strong>Dva Checkboxa</strong>.</li> <li><strong>Floating Action Button (FAB)</strong>.</li> <li>Uporabo knjižnice <strong>Snackbar</strong>.</li> <li>Navaden <strong>Button</strong> z uporabo <strong>Toast</strong> sporočila.</li> </ul> <h2>Opis</h2> <p> Aplikacija je namenjena spoznavanju osnovnih elementov Android aplikacij in njihove uporabe. Uporabil sem različne elemente uporabniškega vmesnika, kot so Checkbox, Button in Floating Action Button. </p> <p> Za prikaz obvestil sem uporabil <strong>Snackbar</strong> in <strong>Toast</strong> sporočila. </p> <h2>Uporabljene tehnologije</h2> <ul> <li>Android Studio</li> <li>Kotlin</li> <li>Android SDK</li> <li>Material Design</li> <li>Snackbar</li> <li>Toast</li> <li>Checkbox</li> <li>Button</li> <li>Floating Action Button</li> </ul>
+<h1>Moja prva aplikacija v Android Studiu</h1> 
+<p> To je moja prva aplikacija, ki sem jo izdelal v <strong>Android Studiu</strong>. Pri izdelavi sem se učil osnov Android programiranja in spoznaval različne elemente uporabniškega vmesnika. </p> 
+<h2>Kaj vsebuje aplikacija?</h2>
+<p> V aplikaciji sem uporabil nekaj osnovnih elementov: </p> 
+<ul> 
+  <li> <strong>Naslov</strong>, ki je zapisan krepko. </li>
+  <li>
+    Podnaslov, ki ni zapisan krepko.
+  </li>
+
+  <li>
+    <strong>Dva Checkboxa</strong>, s katerima lahko uporabnik
+    označi možnosti.
+  </li>
+
+  <li>
+    <strong>Floating Action Button</strong>, ki omogoča izvedbo
+    določene akcije.
+  </li>
+
+  <li>
+    <strong>Snackbar</strong> za prikaz kratkega sporočila uporabniku.
+  </li>
+
+  <li>
+    <strong>Button</strong>, ki ob kliku prikaže
+    <strong>Toast</strong> sporočilo.
+<  /li>
+
+</ul> 
+<h2>Kaj sem se naučil?</h2> 
+<p> Pri tem projektu sem se naučil uporabljati osnovne elemente uporabniškega vmesnika in jih povezati z dejanji uporabnika. </p> <p> Spoznal sem tudi uporabo <strong>Snackbar</strong> in <strong>Toast</strong> sporočil ter kako lahko z njima uporabniku prikažemo različna obvestila. </p>
+<h2>Uporabljeno</h2> 
+<ul> 
+  <li>Android Studio</li>
+  <li>Kotlin</li> 
+  <li>Android SDK</li>
+  <li>Material Design</li>
+</ul> 
+<h2>Zaključek</h2> 
+<p> Ta projekt mi je pomagal bolje razumeti osnove izdelave Android aplikacij. Je moj prvi korak pri učenju razvoja mobilnih aplikacij in nadaljnjem raziskovanju Android Studia. </p>
