@@ -1,15 +1,1 @@
-# Moja prva aplikacija v Android Studiu
-
-## Aplikacija vsebuje:
-
-naslov, ki je zapisan krepko,
-
-podnaslov, ki ni zapisan krepko,
-
-dva Checkboxa,
-
-Floating Action Button,
-
-uporabo knjižnice Snackbar,
-
-navaden Button z uporabo Toast sporočila.
+<h1>Moja prva aplikacija v Android Studiu</h1> <p> Moja prva aplikacija, izdelana v <strong>Android Studiu</strong>. Pri izdelavi sem spoznal osnovne elemente uporabniškega vmesnika in njihovo uporabo. </p> <h2>Aplikacija vsebuje</h2> <ul> <li><strong>Naslov</strong>, ki je zapisan krepko.</li> <li>Podnaslov, ki ni zapisan krepko.</li> <li><strong>Dva Checkboxa</strong>.</li> <li><strong>Floating Action Button (FAB)</strong>.</li> <li>Uporabo knjižnice <strong>Snackbar</strong>.</li> <li>Navaden <strong>Button</strong> z uporabo <strong>Toast</strong> sporočila.</li> </ul> <h2>Opis</h2> <p> Aplikacija je namenjena spoznavanju osnovnih elementov Android aplikacij in njihove uporabe. Uporabil sem različne elemente uporabniškega vmesnika, kot so Checkbox, Button in Floating Action Button. </p> <p> Za prikaz obvestil sem uporabil <strong>Snackbar</strong> in <strong>Toast</strong> sporočila. </p> <h2>Uporabljene tehnologije</h2> <ul> <li>Android Studio</li> <li>Kotlin</li> <li>Android SDK</li> <li>Material Design</li> <li>Snackbar</li> <li>Toast</li> <li>Checkbox</li> <li>Button</li> <li>Floating Action Button</li> </ul>
