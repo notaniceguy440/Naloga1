@@ -33,7 +33,6 @@
 <h2>Uporabljeno</h2> 
 <ul> 
   <li>Android Studio</li>
-  <li>Kotlin</li> 
   <li>Android SDK</li>
   <li>Material Design</li>
 </ul> 
