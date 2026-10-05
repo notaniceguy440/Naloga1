@@ -1,7 +1,5 @@
 Moja prva aplikacija v Android Studiu
 
-To je moja prva aplikacija, izdelana v Android Studiu.
-
 Aplikacija vsebuje:
 
 naslov, ki je zapisan krepko,
