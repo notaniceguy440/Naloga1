@@ -1,6 +1,6 @@
-#Moja prva aplikacija v Android Studiu
+# Moja prva aplikacija v Android Studiu
 
-Aplikacija vsebuje:
+## Aplikacija vsebuje:
 
 naslov, ki je zapisan krepko,
 
