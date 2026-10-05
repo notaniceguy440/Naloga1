@@ -25,7 +25,7 @@
   <li>
     <strong>Button</strong>, ki ob kliku prikaže
     <strong>Toast</strong> sporočilo.
-<  /li>
+</li>
 
 </ul> 
 <h2>Kaj sem se naučil?</h2> 
